@@ -1,0 +1,45 @@
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\accordion.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\AttackerBanjo.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\DeadlyStrummer.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\note.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\PlainBanjo.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\AttractTitle.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\background.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion1.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion2.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion3.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion4.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\music.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\explosion.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\spawnbanjo.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\shot.xnb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\music.wma
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\AlienBanjoAttack.exe
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\AlienBanjoAttack.pdb
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\AlienBanjoAttack.exe
+C:\Users\Zex\Documents\Visual Studio 2013\Projects\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\AlienBanjoAttack.pdb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\accordion.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\AttackerBanjo.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\DeadlyStrummer.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\note.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\PlainBanjo.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\AttractTitle.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\background.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion1.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion2.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion3.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion4.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\music.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\explosion.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\spawnbanjo.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\shot.xnb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\music.wma
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\AlienBanjoAttack.exe
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\AlienBanjoAttack.pdb
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\AlienBanjoAttack.csprojResolveAssemblyReference.cache
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\AlienBanjoAttack.exe
+C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\AlienBanjoAttack.pdb

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>textures\accordion.png</Source>
+      <Name>textures\accordion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\accordion.xnb</Output>
+      <Time>2014-04-29T20:32:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\AttackerBanjo.png</Source>
+      <Name>textures\AttackerBanjo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\AttackerBanjo.xnb</Output>
+      <Time>2014-04-29T20:32:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\DeadlyStrummer.png</Source>
+      <Name>textures\DeadlyStrummer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\DeadlyStrummer.xnb</Output>
+      <Time>2014-04-29T20:32:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\note.png</Source>
+      <Name>textures\note</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\note.xnb</Output>
+      <Time>2014-04-29T20:32:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\PlainBanjo.png</Source>
+      <Name>textures\PlainBanjo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\PlainBanjo.xnb</Output>
+      <Time>2014-04-29T20:32:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\AttractTitle.png</Source>
+      <Name>textures\AttractTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\AttractTitle.xnb</Output>
+      <Time>2014-05-11T02:04:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\background.jpg</Source>
+      <Name>textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\background.xnb</Output>
+      <Time>2014-05-12T02:39:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\explosions\explosion1.png</Source>
+      <Name>textures\explosions\explosion1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion1.xnb</Output>
+      <Time>2014-05-12T04:58:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\explosions\explosion2.png</Source>
+      <Name>textures\explosions\explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion2.xnb</Output>
+      <Time>2014-05-12T04:58:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\explosions\explosion3.png</Source>
+      <Name>textures\explosions\explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion3.xnb</Output>
+      <Time>2014-05-12T04:58:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\explosions\explosion4.png</Source>
+      <Name>textures\explosions\explosion4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\textures\explosions\explosion4.xnb</Output>
+      <Time>2014-05-12T04:58:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MessageFont.spritefont</Source>
+      <Name>MessageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\MessageFont.xnb</Output>
+      <Time>2014-05-10T17:08:45+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\music.mp3</Source>
+      <Name>sounds\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\music.xnb</Output>
+      <Extra>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\music.wma</Extra>
+      <Time>2014-05-12T03:25:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\explosion.wav</Source>
+      <Name>sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\explosion.xnb</Output>
+      <Time>2014-05-12T04:13:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\spawnbanjo.wav</Source>
+      <Name>sounds\spawnbanjo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\spawnbanjo.xnb</Output>
+      <Time>2014-05-12T04:13:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\shot.wav</Source>
+      <Name>sounds\shot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\sounds\shot.xnb</Output>
+      <Time>2014-05-12T04:26:37+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B4047601-C812-4031-9E24-94974A99685E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttackContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Zex\Google Drive\University of Hull\University\Year 1\08120 Programming 2\AlienBanjoAttack\AlienBanjoAttack\AlienBanjoAttack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-05T17:08:49.1233724+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
